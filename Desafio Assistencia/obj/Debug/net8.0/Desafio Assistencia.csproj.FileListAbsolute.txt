@@ -111,4 +111,4 @@ C:\Users\infra\Desktop\Gustavo TW\Desafio Assistencia\Desafio Assistencia\obj\De
 C:\Users\infra\Desktop\Gustavo TW\Desafio Assistencia\Desafio Assistencia\obj\Debug\net8.0\Desafio Assistencia.pdb
 C:\Users\infra\Desktop\Gustavo TW\Desafio Assistencia\Desafio Assistencia\obj\Debug\net8.0\Desafio Assistencia.genruntimeconfig.cache
 C:\Users\infra\Desktop\Gustavo TW\Desafio Assistencia\Desafio Assistencia\obj\Debug\net8.0\ref\Desafio Assistencia.dll
-C:\Users\infra\Desktop\Gustavo TW\Desafio Assistencia\Desafio Assistencia\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\infra\Desktop\Gustavo TW\Desafio Assistencia\Desafio Assistencia\obj\Debug\net8.0\Desafio Assistencia.sourcelink.json
