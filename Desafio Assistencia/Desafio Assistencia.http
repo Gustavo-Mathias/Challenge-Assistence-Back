@@ -1,6 +1,0 @@
-@Desafio_Assistencia_HostAddress = http://localhost:5244
-
-GET {{Desafio_Assistencia_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
