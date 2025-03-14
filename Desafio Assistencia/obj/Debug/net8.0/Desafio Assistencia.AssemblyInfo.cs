@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Desafio Assistencia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3327867ca2def7efe1b2f25137acdfa1f2b583c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dbf7318f93fc985240413436bdf7b8a6b890da3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Desafio Assistencia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Desafio Assistencia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

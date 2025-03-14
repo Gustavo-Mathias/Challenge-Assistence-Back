@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\infra\\Desktop\\Gustavo TW\\Challenge-Assistence-Back\\Desafio Assistencia\\Desafio Assistencia\\Desafio Assistencia.csproj": {}
+    "C:\\Users\\infra\\Desktop\\Gustavo TW\\Challenge-Assistence-Back\\Desafio Assistencia\\Desafio Assistencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\infra\\Desktop\\Gustavo TW\\Challenge-Assistence-Back\\Desafio Assistencia\\Desafio Assistencia\\Desafio Assistencia.csproj": {
+    "C:\\Users\\infra\\Desktop\\Gustavo TW\\Challenge-Assistence-Back\\Desafio Assistencia\\Desafio Assistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\infra\\Desktop\\Gustavo TW\\Challenge-Assistence-Back\\Desafio Assistencia\\Desafio Assistencia\\Desafio Assistencia.csproj",
+        "projectUniqueName": "C:\\Users\\infra\\Desktop\\Gustavo TW\\Challenge-Assistence-Back\\Desafio Assistencia\\Desafio Assistencia.csproj",
         "projectName": "Desafio Assistencia",
-        "projectPath": "C:\\Users\\infra\\Desktop\\Gustavo TW\\Challenge-Assistence-Back\\Desafio Assistencia\\Desafio Assistencia\\Desafio Assistencia.csproj",
+        "projectPath": "C:\\Users\\infra\\Desktop\\Gustavo TW\\Challenge-Assistence-Back\\Desafio Assistencia\\Desafio Assistencia.csproj",
         "packagesPath": "C:\\Users\\infra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\infra\\Desktop\\Gustavo TW\\Challenge-Assistence-Back\\Desafio Assistencia\\Desafio Assistencia\\obj\\",
+        "outputPath": "C:\\Users\\infra\\Desktop\\Gustavo TW\\Challenge-Assistence-Back\\Desafio Assistencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
