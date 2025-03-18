@@ -1,0 +1,39 @@
+﻿services:
+  db:
+    image: mysql:8.0 
+    container_name: assistencia_db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: assistencia
+      MYSQL_USER: user
+      MYSQL_PASSWORD: password
+    ports:
+      - "3307:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: assistencia_api
+    restart: always
+    depends_on:
+      - db
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=db;Database=assistencia;User=user;Password=password;
+      - ASPNETCORE_URLS=http://+:5000
+    ports:
+      - "5000:5000"
+      - "5001:5001"
+    working_dir: /app
+    command: ["dotnet", "DesafioAssistencia.dll"]
+
+volumes:
+  mysql_data:
