@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio Assistencia", "DesafioAssistencia\Desafio Assistencia.csproj", "{09C6DEAB-3885-8A1A-767E-924734176B46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio Assistencia", "DesafioAssistencia\DesafioAssistencia.csproj", "{09C6DEAB-3885-8A1A-767E-924734176B46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
