@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 namespace DesafioAssistencia.Models
 {
@@ -16,6 +17,8 @@ namespace DesafioAssistencia.Models
 
         [ForeignKey("GrupoVeiculo")]
         public int GrupoId { get; set; }
-        public GrupoVeiculo GrupoVeiculo { get; set; }
+
+        [JsonIgnore]  
+        public GrupoVeiculo? GrupoVeiculo { get; set; }
     }
 }

@@ -106,10 +106,10 @@ C:\Users\infra\Desktop\Gustavo TW\Challenge-Assistence-Back\DesafioAssistencia\o
 C:\Users\infra\Desktop\Gustavo TW\Challenge-Assistence-Back\DesafioAssistencia\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DesafioAssistencia.props
 C:\Users\infra\Desktop\Gustavo TW\Challenge-Assistence-Back\DesafioAssistencia\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DesafioAssistencia.props
 C:\Users\infra\Desktop\Gustavo TW\Challenge-Assistence-Back\DesafioAssistencia\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\infra\Desktop\Gustavo TW\Challenge-Assistence-Back\DesafioAssistencia\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\infra\Desktop\Gustavo TW\Challenge-Assistence-Back\DesafioAssistencia\obj\Debug\net8.0\DesafioA.76497465.Up2Date
 C:\Users\infra\Desktop\Gustavo TW\Challenge-Assistence-Back\DesafioAssistencia\obj\Debug\net8.0\DesafioAssistencia.dll
 C:\Users\infra\Desktop\Gustavo TW\Challenge-Assistence-Back\DesafioAssistencia\obj\Debug\net8.0\refint\DesafioAssistencia.dll
 C:\Users\infra\Desktop\Gustavo TW\Challenge-Assistence-Back\DesafioAssistencia\obj\Debug\net8.0\DesafioAssistencia.pdb
 C:\Users\infra\Desktop\Gustavo TW\Challenge-Assistence-Back\DesafioAssistencia\obj\Debug\net8.0\DesafioAssistencia.genruntimeconfig.cache
 C:\Users\infra\Desktop\Gustavo TW\Challenge-Assistence-Back\DesafioAssistencia\obj\Debug\net8.0\ref\DesafioAssistencia.dll
+C:\Users\infra\Desktop\Gustavo TW\Challenge-Assistence-Back\DesafioAssistencia\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
